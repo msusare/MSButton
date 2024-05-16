@@ -1,27 +1,16 @@
 PODS:
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
   - MSButton (0.1.0)
 
 DEPENDENCIES:
-  - FBSnapshotTestCase (~> 2.1.4)
   - MSButton (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
   MSButton:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  MSButton: 034449171b22661daefb2405b7e064f4c9bb0604
+  MSButton: 6ae3c9d8fcd0daf6373dd3e21de7abf8cb0376ff
 
-PODFILE CHECKSUM: 458a289fb5e0e0ad4ffae2d16d0ece55fdd63093
+PODFILE CHECKSUM: 2fb824d42831b1b913a5bab28c54b0a43cc5399f
 
 COCOAPODS: 1.15.2
