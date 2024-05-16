@@ -1,0 +1,6 @@
+framework module MSButton {
+  umbrella header "MSButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

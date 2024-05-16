@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MSButton'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MSButton.'
+  s.summary          = 'A Simple MSButton which helps you to create Customized button with template colors'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Mayur Susare/MSButton'
+  s.homepage         = 'https://github.com/msusare'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Mayur Susare' => 'mayur.susare@jet2.com' }
-  s.source           = { :git => 'https://github.com/Mayur Susare/MSButton.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'Mayur Susare' => 'msusare@gmail.com' }
+  s.source           = { :git => 'https://github.com/msusare/MSButton.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/msusare'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '14.0'
 
   s.source_files = 'MSButton/Classes/**/*'
   
